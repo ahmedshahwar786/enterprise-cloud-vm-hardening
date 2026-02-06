@@ -1,4 +1,4 @@
-# Enterprise Cloud & VM Hardening Lab – Multi-Platform Security Architecture
+# Enterprise Cloud & VM Hardening – Multi Platform Security Architecture
 
 ## Overview
 This repository documents a hands-on enterprise security hardening and monitoring lab performed across multiple local virtual machines and cloud platforms.  
